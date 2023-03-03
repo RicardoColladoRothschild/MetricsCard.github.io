@@ -1,0 +1,41 @@
+.container{
+    width:800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 175px;
+    
+    border-radius: 25px;
+    box-shadow: 4px 0px rgba(0,0,0,0.2);
+   
+   
+
+    
+}
+
+.c1Average{
+    width:40%;
+    border-radius: 22px;
+
+}
+
+.c2Metrics{
+    width:60%;
+
+}
+.subContainerMetrics{
+    margin-top: 10px;
+}
+
+.primary-Button-next{
+    margin-top: 15px;
+}
+body{
+    display: grid;
+    place-items: center;
+    
+    
+}
+
+.data{
+    
+}
